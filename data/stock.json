@@ -1,0 +1,262 @@
+[
+    {
+        "productId": "",
+        "name": "Fresh White Basmati Rice - 1kg Bag",
+        "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Basmati Rice.",
+        "price": "60-75",
+        "quantity": "50",
+        "unit": "bag",
+        "imageURL": [
+            "https://5.imimg.com/data5/OA/UG/MY-39547205/1-kg-white-basmati-rice-500x500.jpg"
+        ],
+        "category": "Rice",
+        "status": "in-stock",
+        "brand": {
+            "name": "Fresh",
+            "id": ""
+        },
+        "store": {
+            "name": "Dhaka",
+            "id": ""
+        },
+        "supplier": {
+            "name": "Rakibul Hasan",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "Fresh Swarna Rice - 5kg Bag",
+        "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Swarna Rice.",
+        "price": "60",
+        "quantity": "30",
+        "unit": "bag",
+        "imageURL": [
+            "https://5.imimg.com/data5/HD/RF/MY-39547205/swarna-rice-500x500.jpg"
+        ],
+        "category": "Rice",
+        "status": "in-stock",
+        "brand": {
+            "name": "Fresh",
+            "id": ""
+        },
+        "store": {
+            "name": "Dhaka",
+            "id": ""
+        },
+        "supplier": {
+            "name": "Rakibul Hasan",
+            "id": ""
+        },
+        "sellCount": 13
+    },
+    {
+        "productId": "",
+        "name": "Bashundhara Atta - 5kg Bag",
+        "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Bashundhara Atta.",
+        "price": "280",
+        "quantity": "40",
+        "unit": "bag",
+        "imageURL": [
+            "https://dokanpat.com.bd/wp-content/uploads/2021/02/bashundhara-atta-5kg.jpg"
+        ],
+        "category": "Atta",
+        "status": "in-stock",
+        "brand": {
+            "name": "Bashundhara",
+            "id": ""
+        },
+        "store": {
+            "name": "Dhaka",
+            "id": ""
+        },
+        "supplier": {
+            "name": "Rakibul Hasan",
+            "id": ""
+        },
+        "sellCount": 74
+    },
+    {
+        "productId": "",
+        "name": "Bashundhara Miniket Rice Premium - 25kg Bag",
+        "description": "With our vast experience & knowledge in this field, we are engaged in providing a quality-assured range of Bash Miniket Rice.",
+        "price": "1750",
+        "quantity": "25",
+        "unit": "bag",
+        "imageURL": [
+            "https://dokanpat.com.bd/wp-content/uploads/2021/02/Miniket-Rice-Premium.jpg"
+        ],
+        "category": "Rice",
+        "status": "in-stock",
+        "brand": {
+            "name": "Bashundhara",
+            "id": ""
+        },
+        "store": {
+            "name": "Dhaka",
+            "id": ""
+        },
+        "supplier": {
+            "name": "Rakibul Hasan",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    },
+    {
+        "productId": "",
+        "name": "",
+        "description": "",
+        "price": "",
+        "quantity": "",
+        "unit": "",
+        "imageURL": [
+
+        ],
+        "category": "",
+        "status": "",
+        "brand": {
+            "name": "",
+            "id": ""
+        },
+        "store": {
+            "name": "",
+            "id": ""
+        },
+        "supplier": {
+            "name": "",
+            "id": ""
+        },
+        "sellCount": 47
+    }
+]

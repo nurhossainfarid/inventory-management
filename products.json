@@ -1,0 +1,26 @@
+[
+    {
+    "name": "chal",
+    "description": "It's the best food in our country",
+    "price": 75,
+    "unit": "kg",
+    "status": "in-stock",
+    "quantity": 50
+    },
+    {
+        "name": "Dhal",
+        "description": "It's the best food in our country",
+        "price": 120,
+        "unit": "kg",
+        "status": "in-stock",
+        "quantity": 20
+    },
+    {
+        "name": "Allo",
+        "description": "It's the best food in our country",
+        "price": 25,
+        "unit": "kg",
+        "status": "in-stock",
+        "quantity": 70
+    }
+]
